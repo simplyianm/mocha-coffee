@@ -7,7 +7,8 @@ For a more extensive demo of Mocha's featureset, take a look at [ryu22e/mocha-ex
 
 ## Usage
 
-1. `rm -rf .git`
+1. `npm install -g archie`
+1. `archie gen -a mocha-coffee -n myproject`
 1. `npm install .`
 1. `make test`
 1. Replace `example.coffee` in both `test` and `src` with your own code.
