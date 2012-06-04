@@ -1,9 +1,8 @@
 {
-    "name": "mocha-coffeescript-boilerplate"
-  , "version": "0.0.1"
-  , "description": "minimalistic template for a CoffeeScript project based on visionmedia/mocha"
-  , "keywords": ["mocha", "boilerplate", "test", "coffeescript", "coffee-script"]
-  , "author": "Chris Smith <quartzmo@gmail.com>"
+    "name": "${name}"
+  , "version": "${version}"
+  , "description": "${description}"
+  , "author": "${author}"
   , "main": "index"
   , "engines": { "node": ">= 0.4.x < 0.8.0" }
   , "scripts": {
